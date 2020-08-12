@@ -24,9 +24,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ## File Description <a name="fd"></a>
 
-- Housing_Price_Competition_Python.ipynb: This file contain Necessary code to Train and Test the Model.
-- train.csv and test.csv: Both of them contain dataset for Housing Price Competition.
-- data_description.txt: This file contain description of words which are present in train.csv file.
+- <strong>Housing_Price_Competition_Python.ipynb</strong>: This file contain Necessary code to Train and Test the Model.
+- <strong>train.csv and test.csv</strong>: Both of them contain dataset for Housing Price Competition.
+- <strong>data_description.txt</strong>: This file contain description of words which are present in train.csv file.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The [Ames Housing dataset](http://www.amstat.org/publications/jse/v19n3/decock.pdf) was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. And I Must give credit to Kaggle for this Competition. You can find the Licensing for the data and other descriptive information at [here](https://www.kaggle.com/c/home-data-for-ml-course/overview/description).
